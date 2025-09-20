@@ -58,3 +58,6 @@ go mod tidy
 # Run bot
 go run main.go
 ```
+---
+## Example
+![](https://i.imgur.com/q0mPCxN.png)
